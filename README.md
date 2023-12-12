@@ -1,1 +1,1 @@
-Hello world
+window with button
